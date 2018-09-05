@@ -1,0 +1,6 @@
+abstract class Obstaculos{
+  
+  Obstaculos(){
+    
+  }
+}
