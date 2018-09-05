@@ -1,2 +1,2 @@
 # bomberman
-juego en processing
+juego en processing incompleto.
